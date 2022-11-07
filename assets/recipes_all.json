@@ -1,0 +1,182 @@
+[
+    {
+        "recipe_name": "Xiodine",
+        "ingredients": [
+            "Iodine; Iodine is derived from ancient sea salts thousands of feet below the earth"
+        ],
+        "benefits": [
+            "Thyroid",
+            "Metabolism"
+        ]
+    },
+    {
+        "recipe_name": "D force",
+        "ingredients": [
+            "Ancient peat",
+            "Pyrroloquinoline quinone, PQQ",
+            "Ubiquinone, coenzymeQ10",
+            "Cordyceps sinensis",
+            "Apple extract",
+            "Ganoderma lucidum",
+            "Astragalus membranaceus root extract",
+            "R-alpha lipoic acid",
+            "Rhodiola rosea root extract",
+            "Trans-resveratrol"
+        ],
+        "benefits": [
+            "Energy",
+            "Antioxidant",
+            "Heart"
+        ]
+    },
+    {
+        "recipe_name": "X fishoil",
+        "ingredients": [
+            "Anchovy oil",
+            "Krill oil",
+            "Salmon oil",
+            "Vitamin D3",
+            "Vitamin E"
+        ],
+        "benefits": [
+            "Blood pressure",
+            "Triglyceride levels",
+            "Plaque",
+            "Joint inflammation",
+            "Disgestion inflammation",
+            "Antioxidant",
+            "Immunity",
+            "Cadiovascular",
+            "Inflammation"
+        ]
+    },
+    {
+        "recipe_name": "Twelve",
+        "ingredients": [
+            "Methylcobalamin"
+        ],
+        "benefits": [
+            "Nerve cells",
+            "Brain cells",
+            "DNA",
+            "Energy",
+            "Blood cells",
+            "Nervous system"
+        ]
+    },
+    {
+        "recipe_name": "X immune",
+        "ingredients": [
+            "Elderberry",
+           "Echinacea Angustifolia Root",
+            "Lomatium Root",
+            "Astragalus Root",
+            "Angelica Root"
+        ],
+        "benefits": [
+            "Immunity"
+        ]
+    },
+    {
+        "recipe_name": "X beets",
+        "ingredients": [
+            "Beetroot extract"
+        ],
+        "benefits": [
+            "Liver health",
+            "Performance, athletic",
+            "Blood vessels",
+            "Cadiovascular",
+            "Heart",
+            "Nitric oxide production"
+        ]
+    },
+    {
+        "recipe_name": "X mpower",
+        "ingredients": [
+            "Niacin",
+            "Zinc",
+            "Eurycoma longifolia root extract", 
+            "Organic maca root concentrate",
+            "Horny goat weed leaf and stem",
+            "Tribulus terrestris fruit extract"
+        ],
+        "benefits": [
+            "Energy",
+            "Fatigue",
+            "Performance, athletic",
+            "Testosterone",
+            "Metabolism",
+            "Cholesterol",
+            "Blood glucose",
+            "Hormone blance",
+            "Cortisol levels",
+            "Prostate",
+            "Sleep",
+            "Libido"
+        ]
+    },
+    {
+        "recipe_name": "X brain1",
+        "ingredients": [
+            "Bacopa herb extract",
+            "Alpha-GPC",
+            "Yerba mate leaf powder",
+            "Phosphatidyl serine",
+            "L-Theanine",
+            "Methylcobalamin",
+            "Pyridoxine HCl",
+            "Black pepper fruit extract",
+            "Toothed clubmoss huperzine A"
+        ],
+        "benefits": [
+            "Performance, mental"
+        ]
+    },
+    {
+        "recipe_name": "X brain2",
+        "ingredients": [
+            "Alpha-GPC",
+            "Green coffee bean",
+            "Eleuthero root",
+            "Yerba mate leaf powder",
+            "Green tea leaves",
+            "Ginkgo Leaf",
+            "Ashwagandha root"
+        ],
+        "benefits": [
+            "Performance, mental"
+        ]
+    },
+    {
+        "recipe_name": "X greens",
+        "ingredients": [
+            "Wheatgrass",
+            "Flax sprouts"
+        ],
+        "benefits": [
+            "Antioxidant",
+            "Vitamin",
+            "Organic fiber"
+        ]
+    },
+    {
+        "recipe_name": "X mvitality",
+        "ingredients": [
+            "Tribulus terrestris fruit",
+            "Suma root",
+            "Ashwagandha root",
+            "Maca root",
+            "Avena sativa root",
+            "Tongkat ali root",
+            "Catuaba bark",
+            "Muira puama bark",
+            "Fulvic acid"
+        ],
+        "benefits": [
+            "Vitality",
+            "Testosterone"
+        ]
+    }
+
+]
