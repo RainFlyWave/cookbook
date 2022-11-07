@@ -1,4 +1,3 @@
-import sqlite3
 from src.api.server import app
 from src.api.models import db, RecipeModel, IngredientModel, BenefitModel
 import json
